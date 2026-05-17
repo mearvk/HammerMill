@@ -20,7 +20,7 @@ Of Your Bankers : Have They Fled From Exact Legal Concise and Numeral Pickings t
 
 Of Your Banker : William Watkins™ : Does He Knows His Crimes?
 
-**Are There Not Poisoners??**
+**Are There Poisoners Not?**
 
 Are People Withholding So Much that They End Up Poisoned from Not?
 
