@@ -12,8 +12,10 @@ Is IQ Related to Birthing Contord and Contract?
 
 Are Millionaires a Guaranteed of Their Own Houses? Names? Who Souts™?
 
-Are Your Bankers Well Read?
+**Are Your Bankers Well Read?**
 
 Of Your Bankers : Have They Been Convicted of Crimes in Exact Pickings? 
   
 Of Your Bankers : Have They Fled From Exact Legal Concise and Numeral Pickings towards Crimes?
+
+Of Your Banker : William Watkins™ : Does He Knows His Crimes?
