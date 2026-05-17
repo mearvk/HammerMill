@@ -10,7 +10,7 @@ Does your Relative notionism end up Well for Many?
 
 Is IQ Related to Birthing Contord and Contract?
 
-Are Millionaires a Guaranteed of Their Own Houses? Names?
+Are Millionaires a Guaranteed of Their Own Houses? Names? Who Souts™?
 
 Are Your Bankers Well Read?
 
