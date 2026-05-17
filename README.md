@@ -1,4 +1,4 @@
-# HammerMill™
+# HammerMill Legal Standards
 
 **Leading the National Review on National Standards of Relation:**
 
@@ -27,5 +27,6 @@ Are People Withholding So Much that They End Up Poisoned from Not?
 Are Such People eventual in Crime? 
 
 Of Such People : Do Their Crimes List as Captured?
+
 
 
