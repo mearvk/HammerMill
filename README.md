@@ -1,4 +1,4 @@
-# HammerMill
+# HammerMill™
 
 Leading the National Review on National Standards of Relation:
 
@@ -12,4 +12,6 @@ Is IQ Related to Birthing Contord and Contract?
 
 Are Millionaires a Guaranteed of Their Own Houses? Names?
 
-Are Your Bankers Well Read? Have They Been Convicted of Crimes in Exact Pickings? Have They Fled From Exact Legal Concise and Numeral Pickings towards Crimes?
+Are Your Bankers Well Read? 
+  Have They Been Convicted of Crimes in Exact Pickings? 
+  Have They Fled From Exact Legal Concise and Numeral Pickings towards Crimes?
