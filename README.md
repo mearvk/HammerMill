@@ -19,3 +19,13 @@ Of Your Bankers : Have They Been Convicted of Crimes in Exact Pickings?
 Of Your Bankers : Have They Fled From Exact Legal Concise and Numeral Pickings towards Crimes?
 
 Of Your Banker : William Watkins™ : Does He Knows His Crimes?
+
+**Are There Not Poisoners??**
+
+Are People Withholding So Much that They End Up Poisoned from Not?
+
+Are Such People eventual in Crime? 
+
+Of Such People : Do Their Crimes List as Captured?
+
+
