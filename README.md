@@ -30,5 +30,4 @@ Are Such People eventual in Crime?
 
 Of Such People : Do Their Crimes List as Captured?
 
-
-
+![Profile views](https://views.igorkowalczyk.dev/api/badge/@mearvk?style=flat)
