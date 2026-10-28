@@ -18,10 +18,13 @@ public class SecurityHeadersFilter implements Filter {
         // Content-Security-Policy is the modern defence against XSS and clickjacking.
         // Scripts are served from same-origin .js files; inline styles (style.cssText,
         // inline style attributes) are used by the webapp, so style-src allows 'unsafe-inline'.
+        // The JSP pages load Google Fonts, so the googleapis/gstatic origins are allowed
+        // for stylesheets and fonts respectively.
         res.setHeader("Content-Security-Policy",
                 "default-src 'self'; "
                 + "script-src 'self'; "
-                + "style-src 'self' 'unsafe-inline'; "
+                + "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; "
+                + "font-src 'self' https://fonts.gstatic.com; "
                 + "img-src 'self' data: https:; "
                 + "object-src 'none'; "
                 + "base-uri 'self'; "
